@@ -34,7 +34,7 @@ for (const file of player) {
 client.on("ready", () => {
   console.log(`Hi, ${client.user.username} is now online!`);
 
-  client.user.setActivity("PARAS GAMING 🇮🇳");
+  client.user.setActivity("SILENT ARMY 🇮🇳");
 });
 /*client.player.on("ready",() => {
   
@@ -167,4 +167,4 @@ client.on("guildMemberAdd", async member => {
     channel.send(text, img);
   }
 });
-client.login(process.env.TOKEN);
+client.login(ODMxNTQxNTU0Mjc0NTAwNjI4.YHWvaw.6ByHCD11NptyMvCK3G0EgviNV6M);
